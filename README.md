@@ -1,4 +1,4 @@
-#A Geometric Art Generator with Javascript
+# A Geometric Art Generator with Javascript
 
 <img width="493" alt="Screenshot 2023-02-28 at 11 40 57 PM" src="https://user-images.githubusercontent.com/44643767/222046617-280deef0-b4dd-4bb6-a351-04780191bbff.png">
 
